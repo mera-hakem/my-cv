@@ -1,0 +1,39 @@
+body{
+background-color: #ada0a5;
+}
+.left-box{
+	width: 350px ;
+	height: 590px ;
+	float: left;
+	
+}
+
+
+
+
+img{width: 190px;
+	height: 200px;
+    border: double 5px transparent;
+     border-radius: 50%;
+
+}
+.right-box{
+	width: 900px;
+	height: 590px ;
+	background-color: #cccccc ;
+	float: right;
+	border-radius: 40px 0px 0px 0px
+}
+
+.profil{
+	font-size: 30px;
+	font-family: cursive;
+}
+.naw{
+	font-family:revert-layerpl;
+	font-size: 20px;
+}
+.nusin{
+	font-size: 20px;
+	font-family: revert-layerpl;
+}
